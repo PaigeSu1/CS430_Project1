@@ -1,0 +1,16 @@
+business_id,business_name,address,city,website,source_id,raw_row_ref
+1,Moberly Area Community College,"Kirksville, 2105 E Normal Ave, Kirksville, MO 63501",Kirksville,https://www.macc.edu/,SID1,1
+2,A.T. Still University,"800 W Jefferson St, Kirksville, MO 63501",Kirksville,http://www.atsu.edu/,SID2,2
+3,Complete Family Medicine,"1611 S Baltimore St, Kirksville, MO 63501",Kirksville,http://cfmcares.com/,SID3,3
+4,Kirksville R-III School District,"1901 E Hamilton St, Kirksville, MO 63501",Kirksville,http://www.kirksville.k12.mo.us/,SID4,4
+5,Bank Midwest,"201 N Elson St, Kirksville, Missouri, 63501",Kirksville,https://www.bankmw.com/,SID5,5
+6,Northeast Power Electric Cooperative,"3705 N Business 61, Palmyra, MO 63461",Kirksville,http://www.northeast-power.coop/,SID6,6
+7,Truman State University,"100 E Normal Ave, Kirksville, MO 63501",Kirksville,http://www.truman.edu/,SID7,7
+8,Adair County Ambulance District,"606 W Potter Ave, Kirksville, MO 63501",Kirksville,http://www.academs.us/,SID8,8
+9,Century 21 Lifetime Agency,"1605 S Baltimore St # A, Kirksville, MO 63501",Kirksville,http://www.c21kirksville.com/,SID9,9
+10,Gardner Collier Jewelry,"111 W Washington St, Kirksville, MO 63501",Kirksville,https://gardner-collier.com/,SID10,10
+11,Liberty Utilities,"916 N Green St, Kirksville, MO 63501",Kirksville,http://www.libertyutilities.com/,SID11,11
+12,Kirksville Tourism,"201 S Franklin St, Kirksville, MO 63501",Kirksville,http://www.visitkirksville.com/,SID12,12
+13,Pickell Abstract,"115 S Franklin St, Kirksville, MO 63501",Kirksville,https://pickellabstractcompany.com/,SID13,13
+14,Alliant Bank,"201 S Baltimore St, Kirksville, MO 63501",Kirksville,http://www.alliantbank.com/,SID14,14
+15,US Bank,"2202 N Baltimore St, Kirksville, MO 63501",Kirksville,https://www.usbank.com/index.html,SID15,15

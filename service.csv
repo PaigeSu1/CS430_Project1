@@ -1,0 +1,39 @@
+service_id,service_name,category_id
+111,Tourism,C
+119,Food Security,C
+100,Associate Degrees,E
+101,Doctoral Education,E
+103,K-12 Education,E
+106,Undergraduate Education,E
+113,Certifications,E
+114,Graduate Education,E
+116,Technical Training,E
+128,Specialized Student Education,E
+104,Personal Banking,F
+108,Real Estate Brokerage,F
+117,Business Loans,F
+121,Real Estate Trade,F
+124,Property Transactions,F
+125,Time Deposits,F
+126,Certificates of Deposit,F
+129,Credit Cards,F
+132,Retirement Services,F
+133,Gold Transactions,F
+134,Personal Loans,F
+135,Abstract Services,F
+138,Mortgages,F
+102,Primary & Specialty Care,H
+107,Pre-hospital Medical Treatment,H
+115,Urgent & Immediate Care,H
+120,Life Support,H
+127,Mental & Behavioral Health,H
+131,Healthcare Transport,H
+137,Diagnostics & Ancillary,H
+112,Title Insurance,I
+109,Luxury Jewelry,R
+122,Everyday Jewelry,R
+105,Electric Utility,U
+110,Natural Gas,U
+118,Powerline Maintenance,U
+123,Power Infrastructure,U
+130,Energy-saving programs,U
