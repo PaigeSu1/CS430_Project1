@@ -1,0 +1,62 @@
+﻿raw_row_id,business name,address as observed,service_wording,source_url,collection_date,collector,business_id,service_id,source_id
+1,Moberly Area Community College,"Kirksville, 2105 E Normal Ave, Kirksville, MO 63501",,https://www.macc.edu/,9/27/26,yash,1,,SID1
+2,A.T. Still University,"800 W Jefferson St, Kirksville, MO 63501",,http://www.atsu.edu/,9/27/26,yash,2,,SID2
+3,Complete Family Medicine,"1611 S Baltimore St, Kirksville, MO 63501",,http://cfmcares.com/,9/27/26,yash,3,,SID3
+4,Kirksville R-III School District,"1901 E Hamilton St, Kirksville, MO 63501",,http://www.kirksville.k12.mo.us/,9/27/26,yash,4,,SID4
+5,Bank Midwest,"201 N Elson St, Kirksville, Missouri, 63501",,https://www.bankmw.com/,9/27/26,yash,5,,SID5
+6,Northeast Power Electric Cooperative,"3705 N Business 61, Palmyra, MO 63461",,http://www.northeast-power.coop/,9/27/26,yash,6,,SID6
+7,Truman State University,"100 E Normal Ave, Kirksville, MO 63501",,http://www.truman.edu/,9/27/26,yash,7,,SID7
+8,Adair County Ambulance District,"606 W Potter Ave, Kirksville, MO 63501",,http://www.academs.us/,9/27/26,yash,8,,SID8
+9,Century 21 Lifetime Agency,"1605 S Baltimore St # A, Kirksville, MO 63501",,http://www.c21kirksville.com/,9/27/26,yash,9,,SID9
+10,Gardner Collier Jewelry,"111 W Washington St, Kirksville, MO 63501",,https://gardner-collier.com/,9/27/26,yash,10,,SID10
+11,Liberty Utilities,"916 N Green St, Kirksville, MO 63501",,http://www.libertyutilities.com/,9/27/26,yash,11,,SID11
+12,Kirksville Tourism,"201 S Franklin St, Kirksville, MO 63501",,http://www.visitkirksville.com/,9/27/26,yash,12,,SID12
+13,Pickell Abstract,"115 S Franklin St, Kirksville, MO 63501",,https://pickellabstractcompany.com/,9/27/26,yash,13,,SID13
+14,Alliant Bank,"201 S Baltimore St, Kirksville, MO 63501",,http://www.alliantbank.com/,9/27/26,yash,14,,SID14
+15,US Bank,"2202 N Baltimore St, Kirksville, MO 63501",,https://www.usbank.com/index.html,9/27/26,yash,15,,SID15
+OFFER001,Moberly Area Community College,"Kirksville, 2105 E Normal Ave, Kirksville, MO 63501",Associate of Arts Degrees,https://www.macc.edu/,9/27/26,Amarachi,1,100,SID1
+OFFER002,Moberly Area Community College,"Kirksville, 2105 E Normal Ave, Kirksville, MO 63501",Certificate Program,https://www.macc.edu/,9/27/26,Amarachi,1,113,SID1
+OFFER003,Moberly Area Community College,"Kirksville, 2105 E Normal Ave, Kirksville, MO 63501",Certified Production Technician Program,https://www.macc.edu/,9/27/26,Amarachi,1,116,SID1
+OFFER004,A.T. Still University,"800 W Jefferson St, Kirksville, MO 63501",Doctor of Osteopathic Medicine,http://www.atsu.edu/,9/27/26,Amarachi,2,101,SID2
+OFFER005,A.T. Still University,"800 W Jefferson St, Kirksville, MO 63501",Master of Science in Biomedical Sciences,http://www.atsu.edu/,9/27/26,Amarachi,2,114,SID2
+OFFER006,A.T. Still University,"800 W Jefferson St, Kirksville, MO 63501",Certificate in Clinical Decision-Making,http://www.atsu.edu/,9/27/26,Amarachi,2,113,SID2
+OFFER007,Complete Family Medicine,"1611 S Baltimore St, Kirksville, MO 63501",Family Practice,http://cfmcares.com/,9/27/26,Amarachi,3,102,SID3
+OFFER008,Complete Family Medicine,"1611 S Baltimore St, Kirksville, MO 63501",Urgent Care,http://cfmcares.com/,9/27/26,Amarachi,3,115,SID3
+OFFER009,Complete Family Medicine,"1611 S Baltimore St, Kirksville, MO 63501",Mental Health,http://cfmcares.com/,9/27/26,Amarachi,3,127,SID3
+OFFER010,Complete Family Medicine,"1611 S Baltimore St, Kirksville, MO 63501",Imaging/Radiology,http://cfmcares.com/,9/27/26,Amarachi,3,137,SID3
+OFFER011,Kirksville R-III School District,"1901 E Hamilton St, Kirksville, MO 63501",K-12 Education,http://www.kirksville.k12.mo.us/,9/27/26,Amarachi,4,103,SID4
+OFFER012,Kirksville R-III School District,"1901 E Hamilton St, Kirksville, MO 63501",Technical Training,http://www.kirksville.k12.mo.us/,9/27/26,Amarachi,4,116,SID4
+OFFER013,Kirksville R-III School District,"1901 E Hamilton St, Kirksville, MO 63501",7th Grade Special Education,http://www.kirksville.k12.mo.us/,9/27/26,Amarachi,4,128,SID4
+OFFER014,Bank Midwest,"201 N Elson St, Kirksville, Missouri, 63501",Checking & Savings,https://www.bankmw.com/,9/27/26,Amarachi,5,104,SID5
+OFFER015,Bank Midwest,"201 N Elson St, Kirksville, Missouri, 63501",Mortgage Loans,https://www.bankmw.com/,9/27/26,Amarachi,5,138,SID5
+OFFER016,Northeast Power Electric Cooperative,"3705 N Business 61, Palmyra, MO 63461",Right-of-Way Maintenance,http://www.northeast-power.coop/,9/27/26,Paige,6,118,SID6
+OFFER017,Northeast Power Electric Cooperative,"3705 N Business 61, Palmyra, MO 63461",transmission electric cooperative,http://www.northeast-power.coop/,9/27/26,Paige,6,123,SID6
+OFFER018,Northeast Power Electric Cooperative,"3705 N Business 61, Palmyra, MO 63461",Energy-saving programs,http://www.northeast-power.coop/,9/27/26,Paige,6,130,SID6
+OFFER019,Truman State University,"100 E Normal Ave, Kirksville, MO 63501",undergraduate programs,http://www.truman.edu/,9/27/26,Paige,7,106,SID7
+OFFER020,Truman State University,"100 E Normal Ave, Kirksville, MO 63501",graduate programs,http://www.truman.edu/,9/27/26,Paige,7,114,SID7
+OFFER021,Truman State University,"100 E Normal Ave, Kirksville, MO 63501",Business Analytics Certificate,http://www.truman.edu/,9/27/26,Paige,7,113,SID7
+OFFER022,Adair County Ambulance District,"606 W Potter Ave, Kirksville, MO 63501",pre-hospital emergency and non-emergency treatment and transport,http://www.academs.us/,9/27/26,Paige,8,131,SID8
+OFFER023,Adair County Ambulance District,"606 W Potter Ave, Kirksville, MO 63501",pre-hospital emergency and non-emergency treatment and transport,http://www.academs.us/,9/27/26,Paige,8,107,SID8
+OFFER024,Adair County Ambulance District,"606 W Potter Ave, Kirksville, MO 63501",Emergency ambulance services,http://www.academs.us/,9/27/26,Paige,8,115,SID8
+OFFER025,Adair County Ambulance District,"606 W Potter Ave, Kirksville, MO 63501",Blood Draws for ordered lab tests,http://www.academs.us/,9/27/26,Paige,8,137,SID8
+OFFER026,Century 21 Lifetime Agency,"1605 S Baltimore St # A, Kirksville, MO 63501",representing both Home Buyers and Home Sellers,http://www.c21kirksville.com/,9/27/26,Paige,9,108,SID9
+OFFER027,Century 21 Lifetime Agency,"1605 S Baltimore St # A, Kirksville, MO 63501",representing both Home Buyers and Home Sellers,http://www.c21kirksville.com/,9/27/26,Paige,9,124,SID9
+OFFER028,Century 21 Lifetime Agency,"1605 S Baltimore St # A, Kirksville, MO 63501",Daily Mortgage Rates,http://www.c21kirksville.com/,9/27/26,Paige,9,138,SID9
+OFFER029,Gardner Collier Jewelry,"111 W Washington St, Kirksville, MO 63501",everyday pieces,https://gardner-collier.com/,9/27/26,Paige,10,122,SID10
+OFFER030,Gardner Collier Jewelry,"111 W Washington St, Kirksville, MO 63501",fine jewelry,https://gardner-collier.com/,9/27/26,Paige,10,109,SID10
+OFFER031,Liberty Utilities,"916 N Green St, Kirksville, MO 63501","electricity generation, transmission and distribution utility services",http://www.libertyutilities.com/,9/27/26,Paige,11,123,SID11
+OFFER032,Liberty Utilities,"916 N Green St, Kirksville, MO 63501",Natural Gas Service,http://www.libertyutilities.com/,9/27/26,Diana,11,110,SID11
+OFFER033,Kirksville Tourism,"201 S Franklin St, Kirksville, MO 63501",Group Planning,http://www.visitkirksville.com/,9/27/26,Diana,12,111,SID12
+OFFER034,Pickell Abstract,"115 S Franklin St, Kirksville, MO 63501",Tourism,https://pickellabstractcompany.com/,9/27/26,Diana,13,111,SID13
+OFFER035,Pickell Abstract,"115 S Franklin St, Kirksville, MO 63501",Business Loans,https://pickellabstractcompany.com/,9/27/26,Diana,13,117,SID13
+OFFER036,Pickell Abstract,"115 S Franklin St, Kirksville, MO 63501",Title searches,https://pickellabstractcompany.com/,9/27/26,Diana,13,135,SID13
+OFFER037,Alliant Bank,"201 S Baltimore St, Kirksville, MO 63501",Personal Banking,http://www.alliantbank.com/,9/27/26,Diana,14,104,SID14
+OFFER038,Alliant Bank,"201 S Baltimore St, Kirksville, MO 63501",Business Loans,http://www.alliantbank.com/,9/27/26,Diana,14,117,SID14
+OFFER039,Alliant Bank,"201 S Baltimore St, Kirksville, MO 63501",Time Deposits,http://www.alliantbank.com/,9/27/26,Diana,14,125,SID14
+OFFER040,Alliant Bank,"201 S Baltimore St, Kirksville, MO 63501",Personal Loans,http://www.alliantbank.com/,9/27/26,Diana,14,134,SID14
+OFFER041,Alliant Bank,"201 S Baltimore St, Kirksville, MO 63501",Abstract Services,http://www.alliantbank.com/,9/27/26,Diana,14,135,SID14
+OFFER042,US Bank,"2202 N Baltimore St, Kirksville, MO 63501",Open a checking account,https://www.usbank.com/index.html,9/27/26,Diana,15,104,SID15
+OFFER043,US Bank,"2202 N Baltimore St, Kirksville, MO 63501",Business term loans,https://www.usbank.com/index.html,9/27/26,Diana,15,117,SID15
+OFFER044,US Bank,"2202 N Baltimore St, Kirksville, MO 63501",Standard CD,https://www.usbank.com/index.html,9/27/26,Diana,15,125,SID15
+OFFER045,US Bank,"2202 N Baltimore St, Kirksville, MO 63501",Personal loan,https://www.usbank.com/index.html,9/27/26,Diana,15,134,SID15
+OFFER046,US Bank,"2202 N Baltimore St, Kirksville, MO 63501",Abstract Services,https://www.usbank.com/index.html,9/27/26,Diana,15,135,SID15
