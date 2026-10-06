@@ -11,12 +11,32 @@ Our project allows users to search up different businesses and the services they
 
 ## Run Commands
 
-Run order (from the project root):
-1. `mysql -u <user> -p < sql/00_schema.sql`
-2. `mysql -u <user> -p <db> < sql/01_load.sql`
-3. `mysql -u <user> -p <db> < sql/02_views.sql`
-4. `mysql -u <user> -p <db> < sql/03_queries.sql`
-5. Tests: `tests/T1.sql` … `tests/T4.sql`
+Run these from the project root. Replace `<user>` with your MySQL username (you will be prompted for the password). No network access or credentials are needed.
+
+**Database name:** `local_services` (created by `00_schema.sql`)
+
+### 1. Build the database
+```bash
+mysql -u <user> -p < sql/00_schema.sql
+mysql -u <user> -p local_services < sql/01_load.sql
+mysql -u <user> -p local_services < sql/02_views.sql
+```
+
+### 2. Run the queries (Q1–Q6)
+```bash
+mysql -u <user> -p local_services < sql/03_queries.sql
+```
+
+### 3. Run the validation tests (T1–T4)
+```bash
+mysql -u <user> -p local_services < tests/T1.sql
+mysql -u <user> -p local_services < tests/T2.sql
+mysql -u <user> -p local_services < tests/T3.sql
+mysql -u <user> -p local_services < tests/T4.sql
+```
+
+### 4. Clean rebuild (reset)
+`00_schema.sql` drops and recreates only the `local_services` database, so repeating steps 1–3 gives the same counts with no duplicate rows.
 
 ## Tables and Keys Summary
 | Table | Purpose | Primary key | Foreign keys |
